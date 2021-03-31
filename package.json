@@ -1,0 +1,14 @@
+{
+  "name": "smart_contact",
+  "version": "1.0.0",
+  "description": "Smart Contract Test",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Su Justin",
+  "license": "ISC"
+}
